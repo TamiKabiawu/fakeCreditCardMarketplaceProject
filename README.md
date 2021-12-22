@@ -1,3 +1,6 @@
-# creditCardScammer
+# fakeCreditCardMarketplaceProject
 
-This is a Credit Card Scammer Project I worked on in Class.
+
+The program uses HTML, CSS, and Javascript to beautfully display information a type of Credit Card infomraiton buying website
+(it was a project prompt given by the summer program).
+
